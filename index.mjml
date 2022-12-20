@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    
+    <mj-title></mj-title>
+
+    <mj-preview></mj-preview>
+
+    <mj-font name="" href="" />
+
+    <mj-attributes>
+
+      <mj-class name="" />
+    
+      <mj-text padding="0" font-family="" />
+      <mj-wrapper padding="0" />
+      <mj-section padding="0" />
+      <mj-column padding="0" />
+      <mj-image padding="0" />
+
+    </mj-attributes>
+
+    <mj-style></mj-style>
+  </mj-head>
+  <mj-body>
+
+  </mj-body>
+</mjml>
