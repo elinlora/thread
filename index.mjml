@@ -104,31 +104,91 @@
     <mj-section background-color="#ffffff">
       <mj-group>
         <mj-column padding="45px 15px 0">
-          <mj-image src="https://i.ibb.co/TqWcrS9/selected-homme-1.jpg" alt="Selected Hoome Black Button Jacket" />
-          <mj-text padding-top="12px" font-weight="600" color="#333333">
+          <mj-image href="#" src="https://i.ibb.co/TqWcrS9/selected-homme-1.jpg" alt="Selected Homme Black Button Jacket" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
             Selected Homme
           </mj-text>
-          <mj-text padding-top="12px" color="#333333">
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
             $97
           </mj-text>
-          <mj-text padding-top="12px" color="#a5a5a5">
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
             M
           </mj-text>
         </mj-column>
         <mj-column padding="45px 15px 0">
-          <mj-image src="https://i.ibb.co/X7MCfsh/selected-homme-2.jpg" alt="Selected Hoome Tan Button Jacket" />
-          <mj-text padding-top="12px" font-weight="600" color="#333333">
+          <mj-image href="#" src="https://i.ibb.co/X7MCfsh/selected-homme-2.jpg" alt="Selected Homme Tan Button Jacket" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
             Selected Homme
           </mj-text>
-          <mj-text padding-top="12px" color="#333333">
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
             $97
           </mj-text>
-          <mj-text padding-top="12px" color="#a5a5a5">
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
             M
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
     <!-- ======> / Selected Homme (1) <====== -->
+    <!-- ======> Selected Homme (2) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/6FhY6RS/selected-homme-3.jpg" alt="Selected Homme White Button Jacket" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $97
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/z8DSdQk/selected-homme-4.jpg" alt="Selected Homme Navy Graphic T Shirt" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $20
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Selected Homme (2) <====== -->
+    <!-- ======> Selected Homme (3) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/pKC4RLC/selected-homme-5.jpg" alt="Selected Homme Tan Short Sleeve Button Down" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $80
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/ZJmRdqc/selected-homme-6.jpg" alt="Selected Homme Black Short Sleeve Button Dwon" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $80
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Selected Homme (3) <====== -->
   </mj-body>
 </mjml>
