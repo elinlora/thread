@@ -199,5 +199,21 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Shop Now CTA <====== -->
+    <!-- ======> Carhartt Heading <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="45px 24px 12px">
+        <mj-text font-size="30px" font-weight="600">
+          Carhartt WIP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Carhartt Heading <====== -->
+    <!-- ======> Carthartt Banner <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/ByTxMPN/carhartt-banner.png" alt="Carthartt Model" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Carthartt Banner <====== -->
   </mj-body>
 </mjml>
