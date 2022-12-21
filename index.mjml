@@ -339,7 +339,7 @@
           </mj-text>
         </mj-column>
         <mj-column padding="45px 15px 0">
-          <mj-image href="#" src="https://i.ibb.co/TvbK4Xv/m-s-collection-2.jpg" alt="Carhartt Cornflowerblue Crewneck Sweatshirt" />
+          <mj-image href="#" src="https://i.ibb.co/TvbK4Xv/m-s-collection-2.jpg" alt="M&amp;S Collection Navy Graphic T Shirt" />
           <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
             M&amp;S Collection
           </mj-text>
@@ -353,5 +353,74 @@
       </mj-group>
     </mj-section>
     <!-- ======> / M&S Collection (1) <====== -->
+    <!-- ======> M&S Collection (2) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/GtmmPXb/m-s-collection-3.jpg" alt="M&amp;S Collection Black Short Jean" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            M&amp;S Collection
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $41
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/sgYQ3NN/m-s-collection-4.jpg" alt="M&amp;S Collection Navy Long Sleeve Polo" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            M&amp;S Collection
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $45
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            Length Regular, Size M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / M&S Collection (2) <====== -->
+    <!-- ======> M&S Collection (3) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/QMM65Gt/m-s-collection-5.jpg" alt="M&amp;S Collection Red Graphic T Shirt" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            M&amp;S Collection
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $27
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            Length Regular, Size M
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/BcRJTv4/m-s-collection-6.jpg" alt="M&amp;S Collection Blue Short Jean" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            M&amp;S Collection
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $41
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / M&S Collection (3) <====== -->
+    <!-- ======> Shop Now CTA <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding-top="45px">
+        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+          shop now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Shop Now CTA <====== -->
   </mj-body>
 </mjml>
