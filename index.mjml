@@ -60,22 +60,7 @@
   </mj-head>
   <mj-body background-color="#f6f6f6">
     <!-- ======> Header <====== -->
-    <!-- <mj-include path="components/header.mjml" /> -->
-    <mj-section background-color="#ffffff">
-      <mj-group>
-        <mj-column vertical-align="middle" padding="20px 15px" width="30%">
-          <mj-image align="left" href="#" src="https://i.ibb.co/DGHbj76/thread-logo.png" alt="Thread" width="180px"/>
-        </mj-column>
-        <mj-column vertical-align="middle" padding="20px 15px" width="70%">
-          <mj-text align="right">
-            <a class="link" href="#" style="font-size: 16px; color: #333333;padding: 0 12px;">My Ideas</a>
-            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Clothing</a>
-            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Footwear</a>
-            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Shop</a>
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
+    <mj-include path="components/header.mjml" />
     <!-- ======> / Header <====== -->
     <!-- ======> Hero Image <====== -->
     <mj-section background-color="#ffffff">
@@ -193,7 +178,7 @@
     <!-- ======> Shop Now CTA <====== -->
     <mj-section background-color="#ffffff">
       <mj-column padding-top="45px">
-        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+        <mj-button href="#" font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
           shop now
         </mj-button>
       </mj-column>
@@ -308,7 +293,7 @@
     <!-- ======> Shop Now CTA <====== -->
     <mj-section background-color="#ffffff">
       <mj-column padding-top="45px">
-        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+        <mj-button href="#" font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
           shop now
         </mj-button>
       </mj-column>
@@ -416,7 +401,7 @@
     <!-- ======> Shop Now CTA <====== -->
     <mj-section background-color="#ffffff">
       <mj-column padding="45px 0 21px">
-        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+        <mj-button href="#" font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
           shop now
         </mj-button>
       </mj-column>
@@ -459,23 +444,7 @@
     </mj-section>
     <!-- ======> / Divider <====== -->
     <!-- ======> Footer <====== -->
-    <!-- <mj-include path="components/footer.mjml" /> -->
-    <mj-section background-color="#ffffff">
-      <mj-column padding="30px 0 60px">
-        <mj-text align="center"> 
-          <p style="font-size: 12px; color: #a5a5a5;">If you have any questions, please email us at <a href="#" style="text-decoration: underline; color: #a5a5a5;">support@thread.com.</a></p>
-          <span>&nbsp;</span>
-          <p style="font-size: 12px; color: #a5a5a5;">Don't want to receive messages from us? <a href="#" style="text-decoration: underline; color: #a5a5a5;">Unsubscribe</a></p>
-        </mj-text>
-        <mj-text align="center" padding-top="45px">
-          <p style="font-size: 12px; color: #a5a5a5;">1 Alie Street</p>
-          <span>&nbsp;</span>
-          <p style="font-size: 12px; color: #a5a5a5;">London, E1 8DE, UK</p>
-          <span>&nbsp;</span>
-          <p style="font-size: 12px; color: #a5a5a5;">&copy; 2022, Thread, Inc.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-include path="components/footer.mjml" />
     <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>

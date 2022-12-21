@@ -1,0 +1,15 @@
+<mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column vertical-align="middle" padding="20px 15px" width="30%">
+          <mj-image align="left" href="#" src="https://i.ibb.co/DGHbj76/thread-logo.png" alt="Thread" width="180px"/>
+        </mj-column>
+        <mj-column vertical-align="middle" padding="20px 15px" width="70%">
+          <mj-text align="right">
+            <a class="link" href="#" style="font-size: 16px; color: #333333;padding: 0 12px;">My Ideas</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Clothing</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Footwear</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Shop</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
