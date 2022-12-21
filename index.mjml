@@ -219,7 +219,7 @@
     <mj-section background-color="#ffffff">
       <mj-group>
         <mj-column padding="45px 15px 0">
-          <mj-image href="#" src="https://i.ibb.co/NTkYyxs/carhartt-wip-1.jpg" alt="Selected Homme Black Button Jacket" />
+          <mj-image href="#" src="https://i.ibb.co/NTkYyxs/carhartt-wip-1.jpg" alt="Carhartt Black Chino" />
           <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
             Carhartt WIP
           </mj-text>
@@ -231,7 +231,7 @@
           </mj-text>
         </mj-column>
         <mj-column padding="45px 15px 0">
-          <mj-image href="#" src="https://i.ibb.co/DzcBhRR/carhartt-wip-2.jpg" alt="Selected Homme Tan Button Jacket" />
+          <mj-image href="#" src="https://i.ibb.co/DzcBhRR/carhartt-wip-2.jpg" alt="Carhartt Cornflowerblue Crewneck Sweatshirt" />
           <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
             Carthartt WIP
           </mj-text>
@@ -245,5 +245,74 @@
       </mj-group>
     </mj-section>
     <!-- ======> / Carthartt (1) <====== -->
+    <!-- ======> Carthartt (2) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/ccF2wSh/carhartt-wip-3.jpg" alt="Carhartt Lavender Crewneck Sweatshirt" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carhartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $101
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/s3tQMDB/carhartt-wip-4.jpg" alt="Carhartt Blue Jeans" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carthartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $138
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Carthartt (2) <====== -->
+    <!-- ======> Carthartt (3) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/jWCTHZH/carhartt-wip-5.jpg" alt="Carhartt Khaki Chino" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carhartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $118
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/QMJBdvr/carhartt-wip-6.jpg" alt="Carhartt Lavender Pullover Hoodie" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carthartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $117
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Carthartt (3) <====== -->
+    <!-- ======> Shop Now CTA <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding-top="45px">
+        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+          shop now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Shop Now CTA <====== -->
   </mj-body>
 </mjml>
