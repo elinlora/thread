@@ -201,7 +201,7 @@
     <!-- ======> / Shop Now CTA <====== -->
     <!-- ======> Carhartt Heading <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column padding="45px 24px 12px">
+      <mj-column padding="60px 24px 12px">
         <mj-text font-size="30px" font-weight="600">
           Carhartt WIP
         </mj-text>
@@ -215,5 +215,35 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Carthartt Banner <====== -->
+    <!-- ======> Carthartt (1) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/NTkYyxs/carhartt-wip-1.jpg" alt="Selected Homme Black Button Jacket" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carhartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $118
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            32
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image href="#" src="https://i.ibb.co/DzcBhRR/carhartt-wip-2.jpg" alt="Selected Homme Tan Button Jacket" />
+          <mj-text padding-top="12px" font-size="16px" font-weight="600" text-transform="uppercase" color="#333333">
+            Carthartt WIP
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#333333">
+            $101
+          </mj-text>
+          <mj-text padding-top="12px" font-size="16px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Carthartt (1) <====== -->
   </mj-body>
 </mjml>
