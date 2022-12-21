@@ -190,5 +190,14 @@
       </mj-group>
     </mj-section>
     <!-- ======> / Selected Homme (3) <====== -->
+    <!-- ======> Shop Now CTA <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding-top="45px">
+        <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
+          shop now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Shop Now CTA <====== -->
   </mj-body>
 </mjml>
