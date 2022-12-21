@@ -1,9 +1,9 @@
 <mjml>
   <mj-head>
     
-    <mj-title></mj-title>
+    <mj-title>Thread</mj-title>
 
-    <mj-preview></mj-preview>
+    <mj-preview>We wanted you to be the first to know about the latest arrivals from brands you like.</mj-preview>
 
     <mj-font name="" href="" />
 
@@ -11,7 +11,7 @@
 
       <mj-class name="" />
     
-      <mj-text padding="0" font-family="" />
+      <mj-text padding="0" font-family="Arial" />
       <mj-wrapper padding="0" />
       <mj-section padding="0" />
       <mj-column padding="0" />
@@ -19,9 +19,116 @@
 
     </mj-attributes>
 
-    <mj-style></mj-style>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+      h1, h2, h3, h4, h5, h6, p {
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      td {
+        padding: 0;
+      }
+      a {
+        text-decoration: none;
+      }
+      img {
+        border: 0;
+      }
+      .main-table {
+        width: 600px;
+        font-family: ;
+        background-color: ;
+        box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+      }
+      /* ======> Mobile <====== */
+      @media only screen and (max-width: 599.8px) {
+        .link:nth-of-type(2),
+        .link:nth-of-type(3) {
+          display: none;
+        }
+        .link-mobile {
+          display: block !important;
+        }
+      }
+    </mj-style>
   </mj-head>
-  <mj-body>
-
+  <mj-body background-color="#f6f6f6">
+    <!-- ======> Header <====== -->
+    <!-- <mj-include path="components/header.mjml" /> -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column vertical-align="middle" padding="20px 15px" width="30%">
+          <mj-image align="left" src="https://i.ibb.co/DGHbj76/thread-logo.png" alt="Thread" width="180px"/>
+        </mj-column>
+        <mj-column vertical-align="middle" padding="20px 15px" width="70%">
+          <mj-text align="right">
+            <a class="link" href="#" style="padding: 0 12px;">My Ideas</a>
+            <a class="link" href="#" style="padding: 0 12px;">Clothing</a>
+            <a class="link" href="#" style="padding: 0 12px;">Footwear</a>
+            <a class="link" href="#" style="padding: 0 12px;">Shop</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Header <====== -->
+    <!-- ======> Hero Image <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="15px 15px 0">
+        <mj-image href="#" src="https://i.ibb.co/C8Bz1fB/thread-hero.png" alt="Thread Model" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Hero Image <====== -->
+    <!-- ======> Hero Copy <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="0 15px">
+        <mj-image href="#" src="https://i.ibb.co/bXRkFft/thread-hero-new-arrivals.jpg" alt="New Arrivals" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Hero Copy <====== -->
+    <!-- ======> Selected Homme Heading <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="40px 15px 0">
+        <mj-text font-size="34px" font-weight="600">
+          Selected Homme
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Selected Homme Heading <====== -->
+    <!-- ======> Selected Homme (1) <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="45px 15px 0">
+          <mj-image src="https://i.ibb.co/TqWcrS9/selected-homme-1.jpg" alt="Selected Hoome Black Button Jacket" />
+          <mj-text padding-top="12px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" color="#333333">
+            $97
+          </mj-text>
+          <mj-text padding-top="12px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+        <mj-column padding="45px 15px 0">
+          <mj-image src="https://i.ibb.co/X7MCfsh/selected-homme-2.jpg" alt="Selected Hoome Tan Button Jacket" />
+          <mj-text padding-top="12px" font-weight="600" color="#333333">
+            Selected Homme
+          </mj-text>
+          <mj-text padding-top="12px" color="#333333">
+            $97
+          </mj-text>
+          <mj-text padding-top="12px" color="#a5a5a5">
+            M
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Selected Homme (1) <====== -->
   </mj-body>
 </mjml>
