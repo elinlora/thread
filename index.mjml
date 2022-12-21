@@ -64,14 +64,14 @@
     <mj-section background-color="#ffffff">
       <mj-group>
         <mj-column vertical-align="middle" padding="20px 15px" width="30%">
-          <mj-image align="left" src="https://i.ibb.co/DGHbj76/thread-logo.png" alt="Thread" width="180px"/>
+          <mj-image align="left" href="#" src="https://i.ibb.co/DGHbj76/thread-logo.png" alt="Thread" width="180px"/>
         </mj-column>
         <mj-column vertical-align="middle" padding="20px 15px" width="70%">
           <mj-text align="right">
-            <a class="link" href="#" style="padding: 0 12px;">My Ideas</a>
-            <a class="link" href="#" style="padding: 0 12px;">Clothing</a>
-            <a class="link" href="#" style="padding: 0 12px;">Footwear</a>
-            <a class="link" href="#" style="padding: 0 12px;">Shop</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333;padding: 0 12px;">My Ideas</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Clothing</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Footwear</a>
+            <a class="link" href="#" style="font-size: 16px; color: #333333; padding: 0 12px;">Shop</a>
           </mj-text>
         </mj-column>
       </mj-group>
@@ -79,7 +79,7 @@
     <!-- ======> / Header <====== -->
     <!-- ======> Hero Image <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column padding="15px 15px 0">
+      <mj-column padding="9px 15px 0">
         <mj-image href="#" src="https://i.ibb.co/C8Bz1fB/thread-hero.png" alt="Thread Model" />
       </mj-column>
     </mj-section>
@@ -415,12 +415,67 @@
     <!-- ======> / M&S Collection (3) <====== -->
     <!-- ======> Shop Now CTA <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column padding-top="45px">
+      <mj-column padding="45px 0 21px">
         <mj-button font-size="18px" text-transform="uppercase" letter-spacing="1px" background-color="#1e1e1e" inner-padding="12px 70px" border-radius="9px">
           shop now
         </mj-button>
       </mj-column>
     </mj-section>
     <!-- ======> / Shop Now CTA <====== -->
+    <!-- ======> Divider <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Divider <====== -->
+    <!-- ======> 3 Column <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="20px 0">
+        <mj-image src="https://i.ibb.co/3cPrV7Z/delivery.png" alt="Free Delivery" width="36px"/>
+        <mj-text align="center" padding-top="15px">
+          Free delivery
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-image src="https://i.ibb.co/26Ypd94/return.png" alt="100-day free returns" width="36px"/>
+        <mj-text align="center" padding-top="15px">
+        100-day free returns
+        </mj-text>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-image src="https://i.ibb.co/qWKhMqK/match.png" alt="Price match promise" width="36px"/>
+        <mj-text align="center" padding-top="15px">
+        Price match promise
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / 3 Column <====== -->
+    <!-- ======> Divider <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Divider <====== -->
+    <!-- ======> Footer <====== -->
+    <!-- <mj-include path="components/footer.mjml" /> -->
+    <mj-section background-color="#ffffff">
+      <mj-column padding="30px 0 60px">
+        <mj-text align="center"> 
+          <p style="font-size: 12px; color: #a5a5a5;">If you have any questions, please email us at <a href="#" style="text-decoration: underline; color: #a5a5a5;">support@thread.com.</a></p>
+          <span>&nbsp;</span>
+          <p style="font-size: 12px; color: #a5a5a5;">Don't want to receive messages from us? <a href="#" style="text-decoration: underline; color: #a5a5a5;">Unsubscribe</a></p>
+        </mj-text>
+        <mj-text align="center" padding-top="45px">
+          <p style="font-size: 12px; color: #a5a5a5;">1 Alie Street</p>
+          <span>&nbsp;</span>
+          <p style="font-size: 12px; color: #a5a5a5;">London, E1 8DE, UK</p>
+          <span>&nbsp;</span>
+          <p style="font-size: 12px; color: #a5a5a5;">&copy; 2022, Thread, Inc.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
